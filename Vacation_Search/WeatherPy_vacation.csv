@@ -1,0 +1,86 @@
+City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
+7,Bethel,US,30.0,41.37,-73.41,Courtyard by Marriott Danbury
+18,Narsaq,GL,23.0,60.92,-46.05,Hotel Narsaq
+22,Torbay,CA,34.0,47.67,-52.73,Gallows Cove
+26,Buchmany,UA,43.47,51.07,28.04,Nick's Place Hotel
+27,Grindavik,IS,42.8,63.84,-22.43,Northern Light Inn & Max's Restaurant
+31,Isakly,RU,42.12,54.13,51.53,Gostinnitsa
+32,Nanortalik,GL,27.72,60.14,-45.24,"NTS Rooms, Nanortalik"
+45,Jamestown,US,33.01,42.1,-79.24,Hampton Inn & Suites Jamestown
+46,Kodiak,US,37.4,57.79,-152.41,Best Western Kodiak Inn and Convention Center
+57,Maniitsoq,GL,20.28,65.42,-52.9,Hotel Heilmann Lyberth
+58,Ancud,CL,44.01,-41.87,-73.82,Hotel Arena Gruesa
+60,High Level,CA,23.0,58.52,-117.14,Days Inn by Wyndham High Level
+65,Shelton,US,32.0,41.32,-73.09,"AIEP (Apex International Education Partners, LLC)"
+84,Chumikan,RU,35.2,54.72,135.31,Fortuna
+94,Gravelbourg,CA,42.8,49.88,-106.55,Historic Bishops Residence Bed & Breakfast
+95,Palmer,US,24.01,42.16,-72.33,Wedgewood Motel
+97,Mehamn,NO,27.55,71.04,27.85,Mehamn Arctic Hotel AS
+108,Nikolskoye,RU,44.01,59.7,30.79,Tourist House - Sablino
+113,Tyup,KG,44.89,42.73,78.36,"Gostevoy Dom ""Aldayar"""
+116,Nantucket,US,43.0,41.28,-70.1,Jared Coffin House
+118,Asau,RO,42.01,46.43,26.4,Casa Mika Ciobanus
+133,Vilnius,LT,44.6,54.69,25.28,Amberton Cathedral Square Hotel Vilnius
+135,Kangasala,FI,41.0,61.46,24.08,Hotelli Kuohu
+140,Otradnoye,RU,44.01,59.78,30.82,Baza otdikha Petrushinsky Khutor
+160,Sovetskiy,RU,36.48,61.36,63.58,Apartment on Kievskaya 29
+165,Bakchar,RU,35.74,57.02,82.07,Snezhinka
+168,Port-Cartier,CA,26.6,50.03,-66.87,Le Q'Artier
+173,Punta Arenas,CL,39.2,-53.15,-70.92,Hotel Dreams Del Estrecho
+178,Teguldet,RU,28.74,57.31,88.17,Gostinitsa Kedr
+184,Paamiut,GL,26.87,61.99,-49.67,Yeet Hotel
+196,Tasiilaq,GL,33.8,65.61,-37.64,The Red House
+197,Hamilton,US,39.0,39.18,-84.53,Six Acres Bed & Breakfast
+202,Tymovskoye,RU,36.12,50.85,142.66,"Gostinitsa ""Domashnyaya"""
+204,Roma,US,26.01,43.21,-75.46,Wingate By Wyndham Rome
+211,Kovdor,RU,25.48,67.57,30.48,Ochag
+217,Petropavlovsk-Kamchatskiy,RU,37.4,53.05,158.65,"ООО ""Гостиничный комплекс ""Петропавловск"""
+224,La Ronge,CA,21.2,55.1,-105.28,Northland Motor Hotel
+247,Askiz,RU,36.9,53.13,90.53,Sovetskiy
+250,Berlevag,NO,30.18,70.86,29.09,Kvitbrakka
+268,Kvam,NO,39.24,61.67,9.69,Kirketeigen Youth Center & Camping
+274,Olafsvik,IS,40.32,64.89,-23.71,Hotel Olafsvik
+276,Kemijarvi,FI,26.6,66.71,27.43,Hotelli Kemijärvi
+284,Severo-Kurilsk,RU,40.75,50.68,156.12,Kak Doma
+296,Carleton Place,CA,25.0,45.13,-76.15,Barons Motor Inn
+299,Strezhevoy,RU,33.8,60.73,77.59,Sibiryachka
+306,Tieli,CN,43.75,46.95,128.05,Dynasty Hotel
+326,Pevek,RU,20.82,69.7,170.31,Severnoye Zoloto
+328,Druskininkai,LT,44.6,54.02,23.97,"Laima, viesbutis"
+329,Husavik,IS,41.0,66.04,-17.34,Bjarnabúð
+339,Terrace,CA,35.6,54.52,-128.6,Northern Motor Inn
+340,Vaasa,FI,39.2,63.1,21.62,Hotel Astor
+350,Stryn,NO,39.2,61.9,6.72,Visnes Hotel Stryn
+351,Silver City,US,41.0,32.77,-108.28,Copper Manor Motel
+366,Severnoye,RU,35.44,56.35,78.36,Gostinitsa Severyanka
+369,Banff,CA,42.8,51.18,-115.57,Banff Aspen Lodge
+370,Calama,CL,44.6,-22.47,-68.93,Park Hotel Calama
+371,Turochak,RU,35.65,52.26,87.12,"Usad'ba ""Lebed'"""
+372,Vardo,NO,33.93,70.37,31.11,Vardø Hotel AS
+375,Yar-Sale,RU,34.03,66.83,70.83,Yalemd
+376,Okha,RU,35.38,53.57,142.95,Империя
+377,Rognan,NO,41.0,67.1,15.39,Rognan Hotell
+385,Juneau,US,42.8,58.3,-134.42,"Baranof Downtown, BW Signature Collection"
+389,Zeya,RU,30.25,53.75,127.27,Kapital Inn
+390,Beringovskiy,RU,21.04,63.05,179.32,Beringgorski
+413,Prince Rupert,CA,44.6,54.32,-130.32,Crest Hotel
+414,Nuuk,GL,21.2,64.18,-51.72,Vandrehuset
+418,Hvide Sande,DK,44.01,56.0,8.13,Hvide Sande Hotel
+424,Bulgan,MN,32.92,48.81,103.53,Bulgan Hotel
+436,Freeport,US,37.4,40.66,-73.58,The Freeport Inn and Marina
+438,Hammerfest,NO,30.2,70.66,23.68,Skytterhuset
+440,Lasa,IT,41.0,46.62,10.7,Pension Feldgärtenhof
+450,Ayan,RU,29.71,56.45,138.17,Gostinitsa
+452,Nome,US,21.2,64.5,-165.41,Dredge 7 Inn
+455,Kitimat,CA,35.6,54.05,-128.65,Kingfish Westcoast Adventures Ltd. Kitimat Estuary Lodge B&B
+457,Smithers,CA,26.6,54.78,-127.17,Prestige Hudson Bay Lodge
+472,Muyezerskiy,RU,30.04,63.93,31.65,"Gostinitsa Ooo ""Lzkh ""Ledmozerskoye"""
+475,Almansa,ES,41.0,38.87,-1.1,Hotel Blu
+477,Channel-Port Aux Basques,CA,32.83,47.57,-59.14,St. Christopher's Hotel
+496,Sept-Iles,CA,26.6,50.2,-66.38,Comfort Inn
+502,Rio Gallegos,AR,42.8,-51.62,-69.22,Hotel Santa Cruz
+504,Orje,NO,45.0,59.48,11.66,PARKING AND TOILET
+510,Broome,US,30.2,42.25,-75.83,Chenango Valley State Park
+511,Sisimiut,GL,20.1,66.94,-53.67,Hotel Sisimiut
+524,Oksfjord,NO,30.2,70.24,22.35,Bobo
+527,Pangody,RU,34.86,65.85,74.49,Elizaveta Shevchuk's House
